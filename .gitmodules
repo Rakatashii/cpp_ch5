@@ -1,0 +1,6 @@
+[submodule "P5_14"]
+	path = P5_14
+	url = https://github.com/Rakatashii/Horstmann_Master.git
+[submodule "P5_19"]
+	path = P5_19
+	url = https://github.com/Rakatashii/Horstmann_Master_Template.git
